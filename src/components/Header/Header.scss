@@ -1,0 +1,11 @@
+header {
+  margin-top: 25px;
+
+  @media (min-width: 576px) {
+    margin-top: 45px;
+  }
+
+  .container {
+    display: flex;
+  }
+}

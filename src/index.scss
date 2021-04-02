@@ -1,0 +1,19 @@
+* {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  border: none;
+  text-decoration: none;
+  box-sizing: border-box;
+  -webkit-overflow-scrolling: touch;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+
+  &:focus {
+    outline: 0;
+  }
+}
+
+body {
+  background-color: #262535;
+  color: #fff;
+}

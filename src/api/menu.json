@@ -1,0 +1,22 @@
+[
+  {
+    "target": "_self",
+    "title": "Film",
+    "url": "/filmler"
+  },
+  {
+    "target": "_self",
+    "title": "Dizi",
+    "url": "/diziler"
+  },
+  {
+    "target": "_self",
+    "title": "Çocuk",
+    "url": "/cocuk"
+  },
+  {
+    "target": "_blank",
+    "title": "Canlı Yayın",
+    "url": "/canli-yayin"
+  }
+]
